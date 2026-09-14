@@ -24,3 +24,4 @@
 - Day 1, 9/11. Transformers, fundamentals on the transformers architecture.
 - Day 2, 9/12. Tokenizer, theories and usages.
 - Day 3, 9/13. Fine-tuning, head-only fine-tuning, HPO, PEFT, SFT/DPO, etc.
+- Day 4, 9/14. Pre-training, 
