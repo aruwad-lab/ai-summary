@@ -16,3 +16,4 @@ datasets
 accelerate
 peft
 bitsandbytes
+trl

@@ -22,3 +22,5 @@
 - Day 3, 9/13. Fine-tuning, head-only fine-tuning, HPO, PEFT, SFT/DPO, etc.
 - Day 4, 9/14.
   - Pretraining, a generative model from scratch.
+  - Post-training, a SFT and DPO.
+  - Generation, concepts and parameters for generation.
