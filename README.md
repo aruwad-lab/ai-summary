@@ -23,4 +23,4 @@
 - Day 4, 9/14.
   - Pretraining, a generative model from scratch.
   - Post-training, a SFT and DPO.
-  - Generation, concepts and parameters for generation.
+  - Generation, fundamental concepts and implementations for generation.
