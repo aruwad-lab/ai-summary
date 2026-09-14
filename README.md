@@ -7,21 +7,18 @@
 ## NLP - Overview
 ```markdown
 1. Transformer: a fundamental knowledges on transformer.
-  - Tokenizer
-  - Embedding
-  - Attention
-  - Architecture
-2. Tokenizer: theories and examples.
-3. Inference: using a pretrained LLM to inference/generate.
-4. Evaluation: metrics and benchmarks for NLP tasks.
-5. Fine-tuning: post-training LLM for a specific task.
-6. Pre-training: constructing an LM from scratch.
-7. RAG: storing and searching on embeddings.
-8. VLM: vision-language model.
+2. Tokenizer: texts -> token ids.
+3. Pretraining: learn a general language ability.
+4. Post-training: follow instructions -> produce desirable/preferred responses.
+5. Fine-tuning: learn task-specific contexts.
+6. Generation: generate a text.
+7. Evaluation: metrics and benchmarks for NLP tasks.
+8. RAG: retrieve/provide query-relevant external information.
 ```
 
 # History
 - Day 1, 9/11. Transformers, fundamentals on the transformers architecture.
 - Day 2, 9/12. Tokenizer, theories and usages.
 - Day 3, 9/13. Fine-tuning, head-only fine-tuning, HPO, PEFT, SFT/DPO, etc.
-- Day 4, 9/14. Pre-training, 
+- Day 4, 9/14.
+  - Pretraining, a generative model from scratch.
