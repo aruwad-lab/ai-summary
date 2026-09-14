@@ -24,3 +24,5 @@
   - Pretraining, a generative model from scratch.
   - Post-training, a SFT and DPO.
   - Generation, fundamental concepts and implementations for generation.
+- Day 5, 9/15.
+  - Evaluation, 
