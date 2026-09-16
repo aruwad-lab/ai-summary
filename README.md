@@ -27,3 +27,5 @@
 - Day 5, 9/15.
   - Evaluation, metrics, benchmarks, and `lm_eval`.
   - RAG, fundamental concepts / topics and a simple dense RAG example with `qdrant`.
+- Day 6, 9/16.
+  - RAG, sparse (BM25) / hybrid retrieval.
