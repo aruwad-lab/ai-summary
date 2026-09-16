@@ -28,4 +28,7 @@
   - Evaluation, metrics, benchmarks, and `lm_eval`.
   - RAG, fundamental concepts / topics and a simple dense RAG example with `qdrant`.
 - Day 6, 9/16.
-  - RAG, sparse (BM25) / hybrid retrieval.
+  - RAG, Sparse (BM25) / hybrid retrieval
+  - RAG, Context / prompt generation
+  - RAG, Evaluation, LLM-as-a-judge
+  - RAG, Advanced vector search with `faiss`

@@ -24,3 +24,4 @@ lm_eval[hf]
 qdrant-client
 ir-measures
 fastembed
+faiss-cpu
