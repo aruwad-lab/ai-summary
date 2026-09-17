@@ -32,3 +32,5 @@
   - RAG, Context / prompt generation
   - RAG, Evaluation, LLM-as-a-judge
   - RAG, Advanced vector search with `faiss`
+- Day 7, 9/17.
+  - LLM System, fundamental concepts including memory profiling, gradient checkpointing, FlashAttention, etc.
