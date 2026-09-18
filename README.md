@@ -34,3 +34,5 @@
   - RAG, Advanced vector search with `faiss`
 - Day 7, 9/17.
   - LLM System, fundamental concepts including memory profiling, gradient checkpointing, FlashAttention, etc.
+- Day 8, 9/18.
+  - Advanced topics, summarized a concept for a few training-related topics.
