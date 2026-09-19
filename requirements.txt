@@ -25,3 +25,7 @@ qdrant-client
 ir-measures
 fastembed
 faiss-cpu
+
+# Misc
+kaggle
+kagglehub
